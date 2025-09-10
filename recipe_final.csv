@@ -1,0 +1,504 @@
+name,ingredients,diet,flavor_profile,course
+Boondi,"Gram flour, ghee, sugar",vegetarian,sweet,dessert
+Gajar ka halwa,"Carrots, milk, sugar, ghee, cashews, raisins",vegetarian,sweet,dessert
+Ghevar,"Flour, ghee, kewra, milk, clarified butter, sugar, almonds, pistachio, saffron, green cardamom",vegetarian,sweet,dessert
+Gulab jamun,"Milk powder, plain flour, baking powder, ghee, milk, sugar, water, rose water",vegetarian,sweet,dessert
+Jalebi,"Maida, corn flour, baking soda, vinegar, curd, water, turmeric, saffron, cardamom",vegetarian,sweet,dessert
+Kaju katli,"Cashews, ghee, cardamom, sugar",vegetarian,sweet,dessert
+Kalakand,"Milk, cottage cheese, sugar",vegetarian,sweet,dessert
+Kheer,"Milk, rice, sugar, dried fruits",vegetarian,sweet,dessert
+Laddu,"Gram flour, ghee, sugar",vegetarian,sweet,dessert
+Lassi,"Yogurt, milk, nuts, sugar",vegetarian,sweet,dessert
+Sheera,"Semolina, ghee, nuts, milk",vegetarian,sweet,dessert
+Sohan papdi,"Gram flour, ghee, sugar, milk, cardamom",vegetarian,sweet,dessert
+Misti doi,"Milk, jaggery",vegetarian,sweet,dessert
+Ras malai,"Chhena, reduced milk, pistachio",vegetarian,sweet,dessert
+Rasgulla,"Chhena, sugar, cardamom",vegetarian,sweet,dessert
+Chikki,"Peanuts, jaggery",vegetarian,sweet,dessert
+Dharwad pedha,"Milk, Sugar, Dharwadi buffalo milk",vegetarian,sweet,dessert
+Mysore pak,"Besan flour, semolina, mung bean, jaggery, coconut, skimmed milk powder, sugar, ghee",vegetarian,sweet,dessert
+Obbattu holige,"Maida flour, turmeric, coconut, chickpeas, jaggery, ghee, cardamom",vegetarian,sweet,main course
+Pongal,"Rice, jaggery, cashews, ghee",vegetarian,sweet,dessert
+Pootharekulu,"Rice flour, powdered sugar, ghee",vegetarian,sweet,dessert
+Aloo gobi,"Cauliflower, potato, garam masala, turmeric, curry leaves",vegetarian,spicy,main course
+Aloo tikki,"Rice flour, potato, bread crumbs, garam masala, salt",vegetarian,spicy,main course
+Aloo matar,"Potato, peas, chillies, ginger, garam masala, garlic",vegetarian,spicy,main course
+Aloo methi,"Potato, fenugreek leaves, chillies, salt, oil",vegetarian,bitter,main course
+Bhindi masala,"Ladies finger, garam masala, kasuri methi, tomatoes, chili powder",vegetarian,spicy,main course
+Biryani,"Chicken thighs, basmati rice, star anise, sweet, green chillies",non vegetarian,spicy,main course
+Butter chicken,"Chicken, greek yogurt, cream, garam masala powder, cashew nuts, butter",non vegetarian,spicy,main course
+Chana masala,"Chickpeas, tomato paste, garam masala, ginger, red onion, avocado oil",vegetarian,spicy,main course
+Chapati,"Whole wheat flour, olive oil, hot water, all purpose flour",vegetarian,-1,main course
+Chicken Tikka masala,"Naan bread, tomato sauce, skinless chicken breasts, heavy cream, garam masala",non vegetarian,spicy,main course
+Chicken Tikka,"Chicken, whole wheat bread, rice flour, garam masala powder, whole egg",non vegetarian,spicy,starter
+Chole bhature,"Chole, bhatura, garam masala, bay leaf, cinnamon stick",vegetarian,spicy,main course
+Daal baati churma,"Moong dal, masoor dal, chana dal, wheat flour, almond",vegetarian,spicy,main course
+Daal puri,"Moong dal, garam masala powder, garlic, green chilli, all purpose flour",vegetarian,spicy,main course
+Dal makhani ,"Red kidney beans, urad dal, cream, garam masala, chili powder",vegetarian,sweet,main course
+Dal tadka,"Pigeon peas, garam masala, ginger, red onion, kasuri methi",vegetarian,spicy,main course
+Dum aloo,"Baby potatoes, garam masala, cashew nuts, kasuri methi, tomatoes",vegetarian,spicy,main course
+Poha,"Beaten rice flakes, potato, curry leaves, green chilies, lemon juice",vegetarian,spicy,snack
+Kachori,"Moong dal, rava, garam masala, dough, fennel seeds",vegetarian,spicy,snack
+Kadai paneer,"Cottage cheese, bell peppers, gravy, garam masala, cashew nuts",vegetarian,spicy,main course
+Khichdi,"Moong dal, green peas, ginger, tomato, green chili",vegetarian,spicy,main course
+Kulfi falooda,"Rose syrup, falooda sev, mixed nuts, saffron, sugar",vegetarian,sweet,dessert
+Mushroom do pyaza,"Mushroom, malai, garam masala, ginger, capsicum",vegetarian,spicy,main course
+Mushroom matar,"Canned coconut milk, frozen green peas, wild mushrooms, garam masala, tomatoes",vegetarian,spicy,main course
+Naan,"Whole wheat flour, honey, butter, garlic",vegetarian,-1,main course
+Palak paneer,"Cottage cheese, palak, cream, garam masala, butter",vegetarian,spicy,main course
+Paneer butter masala,"Paneer, whipping cream, garam masala, cashew nuts, butter",vegetarian,spicy,main course
+Paneer tikka masala,"Paneer, greek yogurt, tandoori masala, cream, bell pepper",vegetarian,spicy,main course
+Pani puri,"Kala chana, mashed potato, boondi, sev, lemon",vegetarian,spicy,snack
+Papad,"Urad dal, sev, lemon juice, chopped tomatoes",vegetarian,spicy,snack
+Paratha,"Wheat flour, butter, potato, coriander",vegetarian,spicy,main course
+Rajma chaval,"Red kidney beans, garam masala powder, ginger, tomato, mustard oil",vegetarian,spicy,main course
+Samosa,"Potatoes, green peas, garam masala, ginger, dough",vegetarian,spicy,snack
+Shahi paneer,"Cottage cheese, malai, garam masala, ginger, tomato",vegetarian,spicy,main course
+Tandoori Chicken,"Greek yogurt, garam masala, kasuri methi, marinade, mustard oil",non vegetarian,spicy,main course
+Tandoori Fish Tikka,"Chickpea flour, biryani masala powder, yogurt, fish fillets, green bell pepper",non vegetarian,spicy,starter
+Bisi bele bath,"Split pigeon peas, chana dal, urad dal, green peas, french beans",vegetarian,spicy,main course
+Dosa,"Chana dal, urad dal, whole urad dal, blend rice, rock salt",vegetarian,spicy,snack
+Idiappam,"Rice flour, hot water, grated coconut",vegetarian,spicy,snack
+Idli,"Split urad dal, urad dal, idli rice, thick poha, rock salt",vegetarian,spicy,snack
+Beef Fry,"Beef, coconut, garam masala, curry leaves, green chilies, chili powder",non vegetarian,spicy,main course
+Kootu,"Chana dal, urad dal, potato, beans, peas",vegetarian,spicy,main course
+Koshambri,"Moong dal, cucumber, curry leaves, green chili, lemon juice",vegetarian,spicy,main course
+Masala Dosa,"Chana dal, urad dal, potatoes, idli rice, thick poha",vegetarian,spicy,snack
+Payasam,"Rice, cashew nuts, milk, raisins, sugar",vegetarian,sweet,dessert
+Rasam,"Tomato, curry leaves, garlic, mustard seeds, hot water",vegetarian,spicy,main course
+Sambar,"Pigeon peas, eggplant, drumsticks, sambar powder, tamarind",vegetarian,spicy,main course
+Sandige,"Thin rice flakes, black sesame seeds, curry leaves",vegetarian,-1,main course
+Vada,"Urad dal, ginger, curry leaves, green chilies, black pepper",vegetarian,spicy,snack
+Upma,"Chana dal, urad dal, ginger, curry leaves, sugar",vegetarian,spicy,snack
+Chakali,"Rice flour, sesame, plain flour, turmeric, red chilli",vegetarian,spicy,snack
+Copra paak,"Condensed milk, nestle cream, coconut ice, red food coloring, desiccated coconut",vegetarian,-1,main course
+Dahi vada,"Urad dal, bhuna chana, garam masala, dates, tamarind",vegetarian,-1,snack
+Dhokla,"Rava, coconut, gram flour, mustard, sesame",vegetarian,spicy,snack
+Pav Bhaji,"Pav bhaji masala, gobi, potatoes, green peas, dinner rolls",vegetarian,spicy,main course
+Puri Bhaji,"Aloo, urad dal, mustard, ginger, curry leaves",vegetarian,spicy,main course
+Sabudana Khichadi,"Raw peanuts, sabudana, lemon, avocado oil, curry leaves, green chili",vegetarian,spicy,snack
+Black rice,"Forbidden black rice, chicken, olive oil, slivered almonds, garlic powder",non vegetarian,-1,main course
+Brown Rice,"Brown rice, soy sauce, olive oil",vegetarian,-1,main course
+Prawn malai curry,"Coconut milk, prawns, garlic, turmeric, sugar",non vegetarian,spicy,main course
+Red Rice,"Red pepper, red onion, butter, watercress, olive oil",vegetarian,-1,main course
+Pinaca,"Brown rice, fennel seeds, grated coconut, black pepper, ginger powder",vegetarian,sweet,dessert
+Chicken Tikka 0,"Rice, peas, beans, carrot, spices",vegetarian,-1,main course
+Paneer Burger 1,"Paneer, onion, tomato, garam masala, cream",vegetarian,spicy,starter
+Sweet Corn Soup 2,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,bitter,dessert
+Chicken Biryani 3,"Wheat flour, sugar, jaggery, coconut",vegetarian,bitter,starter
+Egg Fried Rice 4,"Rice, peas, beans, carrot, spices",vegetarian,sweet,starter
+Mixed Veg Sabzi 5,"Egg, tomato, onion, garam masala, coriander",vegetarian,spicy,snack
+Chicken Burger 6,"Paneer, onion, tomato, garam masala, cream",non vegetarian,spicy,snack
+Fish Tikka 7,"Paneer, onion, tomato, garam masala, cream",non vegetarian,bitter,main course
+Gobi Manchurian 8,"Mutton, onion, ginger garlic paste, spices",non vegetarian,bitter,snack
+Mutton Kebab 9,"Rice, peas, beans, carrot, spices",vegetarian,-1,dessert
+Veg Sandwich 10,"Egg, tomato, onion, garam masala, coriander",vegetarian,spicy,main course
+Vegetable Pulao 11,"Rice flour, milk, sugar, saffron, nuts",vegetarian,sweet,starter
+Vegetable Soup 12,"Mutton, onion, ginger garlic paste, spices",vegetarian,sweet,dessert
+Chapati 13,"Mutton, onion, ginger garlic paste, spices",vegetarian,sweet,snack
+Pineapple Pastry 14,"Egg, tomato, onion, garam masala, coriander",vegetarian,sweet,main course
+Mutton Tikka 15,"Gram flour, rice flour, onion, spices",non vegetarian,-1,main course
+Mutton Kebab 16,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,spicy,main course
+Dal Fry 17,"Paneer, onion, tomato, garam masala, cream",non vegetarian,spicy,snack
+Kulfi 18,"Mutton, onion, ginger garlic paste, spices",non vegetarian,spicy,main course
+Egg Fried Rice 19,"Egg, tomato, onion, garam masala, coriander",non vegetarian,spicy,main course
+Seekh Kebab 20,"Gram flour, rice flour, onion, spices",non vegetarian,sweet,snack
+Paneer Momos 21,"Potato, onion, chili, garam masala, oil",non vegetarian,bitter,starter
+Chicken Burger 22,"Chicken, yogurt, cashew, onion, tomato",vegetarian,spicy,snack
+Poori 23,"Rice, peas, beans, carrot, spices",vegetarian,bitter,dessert
+Garlic Naan 24,"Mutton, onion, ginger garlic paste, spices",vegetarian,bitter,snack
+Paneer Momos 25,"Rice flour, milk, sugar, saffron, nuts",vegetarian,-1,starter
+Chicken Frankie 26,"Fish, coconut milk, tamarind, curry leaves",vegetarian,bitter,starter
+Veg Frankie 27,"Rice, peas, beans, carrot, spices",vegetarian,spicy,dessert
+Rasgulla Cake 28,"Rice flour, milk, sugar, saffron, nuts",vegetarian,-1,main course
+Garlic Naan 29,"Egg, tomato, onion, garam masala, coriander",vegetarian,-1,starter
+Coconut Burfi 30,"Rice, peas, beans, carrot, spices",vegetarian,-1,starter
+Veg Spring Roll 31,"Gram flour, rice flour, onion, spices",non vegetarian,-1,snack
+Veg Cutlet 32,"Chicken, yogurt, cashew, onion, tomato",vegetarian,sweet,snack
+Seekh Kebab 33,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,bitter,dessert
+Chicken Momos 34,"Chicken, yogurt, cashew, onion, tomato",vegetarian,-1,dessert
+Egg Biryani 35,"Wheat flour, sugar, jaggery, coconut",non vegetarian,bitter,dessert
+Paneer Burger 36,"Potato, onion, chili, garam masala, oil",vegetarian,-1,dessert
+Chocolate Cake 37,"Gram flour, rice flour, onion, spices",non vegetarian,spicy,snack
+Veg Sandwich 38,"Paneer, onion, tomato, garam masala, cream",non vegetarian,sweet,starter
+Onion Pakora 39,"Paneer, onion, tomato, garam masala, cream",non vegetarian,-1,main course
+Paneer Manchurian 40,"Paneer, onion, tomato, garam masala, cream",vegetarian,spicy,dessert
+Paneer Momos 41,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,bitter,starter
+Mutton Tikka 42,"Mutton, onion, ginger garlic paste, spices",non vegetarian,sweet,snack
+Veg Burger 43,"Fish, coconut milk, tamarind, curry leaves",vegetarian,sweet,starter
+Tandoori Roti 44,"Gram flour, rice flour, onion, spices",vegetarian,-1,starter
+Chicken Momos 45,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,spicy,main course
+Kulfi 46,"Wheat flour, sugar, jaggery, coconut",non vegetarian,-1,snack
+Veg Pakora 47,"Chicken, yogurt, cashew, onion, tomato",vegetarian,-1,main course
+Mutton Tikka 48,"Potato, onion, chili, garam masala, oil",vegetarian,-1,starter
+Veg Hakka Noodles 49,"Mutton, onion, ginger garlic paste, spices",vegetarian,sweet,main course
+Kadhi Chawal 50,"Chicken, yogurt, cashew, onion, tomato",vegetarian,bitter,main course
+Jowar Roti 51,"Potato, onion, chili, garam masala, oil",non vegetarian,spicy,dessert
+Poori 52,"Egg, tomato, onion, garam masala, coriander",vegetarian,spicy,dessert
+Club Sandwich 53,"Rice flour, milk, sugar, saffron, nuts",vegetarian,sweet,main course
+Fish Curry 54,"Mutton, onion, ginger garlic paste, spices",non vegetarian,spicy,snack
+Dal Fry 55,"Potato, onion, chili, garam masala, oil",vegetarian,spicy,main course
+Chicken Tikka 56,"Rice, peas, beans, carrot, spices",non vegetarian,spicy,starter
+Bajra Roti 57,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,spicy,snack
+Falooda 58,"Chicken, yogurt, cashew, onion, tomato",vegetarian,bitter,main course
+Ragi Mudde 59,"Gram flour, rice flour, onion, spices",non vegetarian,-1,dessert
+Poori 60,"Rice flour, milk, sugar, saffron, nuts",vegetarian,bitter,main course
+Vegetable Pulao 61,"Paneer, onion, tomato, garam masala, cream",vegetarian,spicy,main course
+Fish Curry 62,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,-1,dessert
+Paneer Bhurji 63,"Gram flour, rice flour, onion, spices",non vegetarian,spicy,snack
+Tandoori Roti 64,"Potato, onion, chili, garam masala, oil",non vegetarian,spicy,main course
+Paneer Pakora 65,"Paneer, onion, tomato, garam masala, cream",vegetarian,sweet,starter
+Tomato Soup 66,"Egg, tomato, onion, garam masala, coriander",vegetarian,bitter,starter
+Garlic Naan 67,"Wheat flour, sugar, jaggery, coconut",non vegetarian,sweet,dessert
+Ragi Mudde 68,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,bitter,starter
+Egg Hakka Noodles 69,"Rice flour, milk, sugar, saffron, nuts",vegetarian,-1,main course
+Tomato Soup 70,"Gram flour, rice flour, onion, spices",non vegetarian,spicy,main course
+Ragi Mudde 71,"Mutton, onion, ginger garlic paste, spices",non vegetarian,sweet,dessert
+Jowar Roti 72,"Potato, onion, chili, garam masala, oil",non vegetarian,-1,dessert
+Vegetable Soup 73,"Wheat flour, sugar, jaggery, coconut",non vegetarian,sweet,starter
+Egg Fried Rice 74,"Chicken, yogurt, cashew, onion, tomato",vegetarian,-1,dessert
+Pineapple Pastry 75,"Rice, peas, beans, carrot, spices",vegetarian,spicy,snack
+Coconut Burfi 76,"Rice flour, milk, sugar, saffron, nuts",vegetarian,sweet,snack
+Veg Momos 77,"Paneer, onion, tomato, garam masala, cream",non vegetarian,spicy,dessert
+Pineapple Pastry 78,"Potato, onion, chili, garam masala, oil",non vegetarian,spicy,main course
+Chicken Tikka 79,"Paneer, onion, tomato, garam masala, cream",non vegetarian,spicy,snack
+Egg Fried Rice 80,"Mutton, onion, ginger garlic paste, spices",vegetarian,spicy,dessert
+Chicken Tikka 81,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,bitter,main course
+Pineapple Pastry 82,"Egg, tomato, onion, garam masala, coriander",vegetarian,-1,snack
+Paneer Pakora 83,"Egg, tomato, onion, garam masala, coriander",vegetarian,spicy,snack
+Veg Pizza 84,"Paneer, onion, tomato, garam masala, cream",non vegetarian,sweet,dessert
+Schezwan Noodles 85,"Gram flour, rice flour, onion, spices",non vegetarian,spicy,main course
+Veg Fried Rice 86,"Rice, peas, beans, carrot, spices",vegetarian,sweet,main course
+Paneer Burger 87,"Paneer, onion, tomato, garam masala, cream",non vegetarian,spicy,starter
+Veg Sandwich 88,"Mutton, onion, ginger garlic paste, spices",non vegetarian,spicy,dessert
+Coconut Burfi 89,"Rice, peas, beans, carrot, spices",non vegetarian,-1,dessert
+Ragi Mudde 90,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,bitter,main course
+Veg Momos 91,"Potato, onion, chili, garam masala, oil",vegetarian,sweet,dessert
+Paneer Manchurian 92,"Egg, tomato, onion, garam masala, coriander",vegetarian,-1,snack
+Veg Pakora 93,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,-1,main course
+Veg Burger 94,"Potato, onion, chili, garam masala, oil",non vegetarian,-1,dessert
+Onion Pakora 95,"Gram flour, rice flour, onion, spices",vegetarian,sweet,starter
+Coconut Burfi 96,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,bitter,main course
+Rava Ladoo 97,"Gram flour, rice flour, onion, spices",non vegetarian,-1,dessert
+Paneer Roll 98,"Chicken, yogurt, cashew, onion, tomato",vegetarian,-1,starter
+Chapati 99,"Potato, onion, chili, garam masala, oil",vegetarian,sweet,snack
+Mutton Curry 100,"Paneer, onion, tomato, garam masala, cream",vegetarian,sweet,starter
+Chicken Sandwich 101,"Rice, peas, beans, carrot, spices",non vegetarian,-1,main course
+Garlic Naan 102,"Paneer, onion, tomato, garam masala, cream",non vegetarian,sweet,dessert
+Coconut Burfi 103,"Gram flour, rice flour, onion, spices",non vegetarian,-1,starter
+Veg Frankie 104,"Potato, onion, chili, garam masala, oil",non vegetarian,-1,main course
+Paneer Do Pyaza 105,"Chicken, yogurt, cashew, onion, tomato",vegetarian,-1,main course
+Tandoori Roti 106,"Gram flour, rice flour, onion, spices",non vegetarian,bitter,starter
+Chicken Fried Rice 107,"Paneer, onion, tomato, garam masala, cream",non vegetarian,sweet,main course
+Vegetable Curry 108,"Potato, onion, chili, garam masala, oil",vegetarian,spicy,dessert
+Pesarattu 109,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,-1,snack
+Chicken Sandwich 110,"Potato, onion, chili, garam masala, oil",non vegetarian,-1,snack
+Veg Manchurian 111,"Paneer, onion, tomato, garam masala, cream",non vegetarian,-1,main course
+Chicken Biryani 112,"Potato, onion, chili, garam masala, oil",non vegetarian,bitter,snack
+Butter Naan 113,"Egg, tomato, onion, garam masala, coriander",vegetarian,spicy,starter
+Ice Cream 114,"Rice, peas, beans, carrot, spices",vegetarian,bitter,starter
+Jowar Roti 115,"Mutton, onion, ginger garlic paste, spices",vegetarian,bitter,dessert
+Rava Ladoo 116,"Potato, onion, chili, garam masala, oil",non vegetarian,spicy,snack
+Chicken Tikka 117,"Egg, tomato, onion, garam masala, coriander",non vegetarian,bitter,snack
+Fish Curry 118,"Potato, onion, chili, garam masala, oil",non vegetarian,-1,main course
+Paneer Do Pyaza 119,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,sweet,starter
+Falooda 120,"Fish, coconut milk, tamarind, curry leaves",vegetarian,sweet,starter
+Veg Pakora 121,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,bitter,main course
+Veg Biryani 122,"Paneer, onion, tomato, garam masala, cream",non vegetarian,spicy,snack
+Brownie 123,"Rice flour, milk, sugar, saffron, nuts",vegetarian,spicy,starter
+Chicken 65 124,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,spicy,main course
+Chicken Pizza 125,"Wheat flour, sugar, jaggery, coconut",vegetarian,spicy,snack
+Paneer Roll 126,"Fish, coconut milk, tamarind, curry leaves",vegetarian,spicy,main course
+Egg Hakka Noodles 127,"Rice, peas, beans, carrot, spices",vegetarian,bitter,dessert
+Dal Fry 128,"Mutton, onion, ginger garlic paste, spices",vegetarian,-1,dessert
+Chicken Korma 129,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,spicy,main course
+Chicken Hakka Noodles 130,"Rice flour, milk, sugar, saffron, nuts",vegetarian,spicy,main course
+Veg Cutlet 131,"Potato, onion, chili, garam masala, oil",vegetarian,spicy,main course
+Fish Tikka 132,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,sweet,snack
+Prawns Tikka 133,"Gram flour, rice flour, onion, spices",non vegetarian,-1,main course
+Chicken Hakka Noodles 134,"Chicken, yogurt, cashew, onion, tomato",vegetarian,sweet,dessert
+Veg Fried Rice 135,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,bitter,starter
+Veg Frankie 136,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,spicy,snack
+Mutton Curry 137,"Rice, peas, beans, carrot, spices",vegetarian,sweet,dessert
+Mutton Pizza 138,"Fish, coconut milk, tamarind, curry leaves",vegetarian,bitter,main course
+Chicken Frankie 139,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,sweet,starter
+Dal Fry 140,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,bitter,dessert
+Ragi Mudde 141,"Potato, onion, chili, garam masala, oil",non vegetarian,bitter,main course
+Paneer Tikka 142,"Mutton, onion, ginger garlic paste, spices",non vegetarian,sweet,dessert
+Butter Naan 143,"Gram flour, rice flour, onion, spices",non vegetarian,-1,snack
+Vegetable Curry 144,"Gram flour, rice flour, onion, spices",non vegetarian,spicy,main course
+Veg Cutlet 145,"Fish, coconut milk, tamarind, curry leaves",vegetarian,spicy,main course
+Hot and Sour Soup 146,"Rice, peas, beans, carrot, spices",non vegetarian,-1,snack
+Moong Dal Halwa 147,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,-1,snack
+Sweet Corn Soup 148,"Mutton, onion, ginger garlic paste, spices",non vegetarian,-1,dessert
+Onion Pakora 149,"Wheat flour, sugar, jaggery, coconut",non vegetarian,sweet,snack
+Paneer Bhurji 150,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,bitter,snack
+Brownie 151,"Wheat flour, sugar, jaggery, coconut",vegetarian,spicy,starter
+Pineapple Pastry 152,"Gram flour, rice flour, onion, spices",vegetarian,sweet,snack
+Moong Dal Halwa 153,"Rice, peas, beans, carrot, spices",non vegetarian,-1,main course
+Chicken Hakka Noodles 154,"Paneer, onion, tomato, garam masala, cream",vegetarian,-1,dessert
+Ice Cream 155,"Paneer, onion, tomato, garam masala, cream",vegetarian,spicy,main course
+Mutton Pizza 156,"Egg, tomato, onion, garam masala, coriander",vegetarian,-1,starter
+Chicken 65 157,"Paneer, onion, tomato, garam masala, cream",vegetarian,spicy,main course
+Egg Biryani 158,"Gram flour, rice flour, onion, spices",vegetarian,bitter,snack
+Poori 159,"Mutton, onion, ginger garlic paste, spices",vegetarian,spicy,snack
+Chicken Burger 160,"Paneer, onion, tomato, garam masala, cream",non vegetarian,-1,dessert
+Kesari Bath 161,"Paneer, onion, tomato, garam masala, cream",non vegetarian,bitter,starter
+Paneer Pizza 162,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,bitter,snack
+Garlic Naan 163,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,spicy,main course
+Onion Pakora 164,"Wheat flour, sugar, jaggery, coconut",non vegetarian,spicy,starter
+Pineapple Pastry 165,"Gram flour, rice flour, onion, spices",vegetarian,spicy,main course
+Paneer Burger 166,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,spicy,snack
+Paneer Manchurian 167,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,-1,snack
+Paneer Momos 168,"Chicken, yogurt, cashew, onion, tomato",vegetarian,bitter,main course
+Vegetable Pulao 169,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,spicy,dessert
+Vegetable Pulao 170,"Egg, tomato, onion, garam masala, coriander",vegetarian,sweet,dessert
+Chicken Burger 171,"Chicken, yogurt, cashew, onion, tomato",vegetarian,spicy,main course
+Dal Fry 172,"Rice, peas, beans, carrot, spices",vegetarian,bitter,main course
+Sweet Corn Soup 173,"Paneer, onion, tomato, garam masala, cream",non vegetarian,spicy,starter
+Paneer Do Pyaza 174,"Mutton, onion, ginger garlic paste, spices",vegetarian,-1,snack
+Kadhi Pakora 175,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,spicy,dessert
+Hara Bhara Kebab 176,"Paneer, onion, tomato, garam masala, cream",vegetarian,bitter,snack
+Kadhi Pakora 177,"Mutton, onion, ginger garlic paste, spices",vegetarian,bitter,main course
+Falooda 178,"Rice flour, milk, sugar, saffron, nuts",vegetarian,bitter,dessert
+Veg Sandwich 179,"Wheat flour, sugar, jaggery, coconut",non vegetarian,spicy,snack
+Falooda 180,"Gram flour, rice flour, onion, spices",non vegetarian,bitter,starter
+Paneer Roll 181,"Paneer, onion, tomato, garam masala, cream",vegetarian,bitter,snack
+Jowar Roti 182,"Gram flour, rice flour, onion, spices",non vegetarian,sweet,main course
+Paneer Pizza 183,"Gram flour, rice flour, onion, spices",non vegetarian,sweet,starter
+Pesarattu 184,"Rice, peas, beans, carrot, spices",non vegetarian,bitter,main course
+Pineapple Pastry 185,"Wheat flour, sugar, jaggery, coconut",non vegetarian,-1,main course
+Chicken Spring Roll 186,"Wheat flour, sugar, jaggery, coconut",vegetarian,-1,main course
+Veg Biryani 187,"Potato, onion, chili, garam masala, oil",non vegetarian,-1,snack
+Chapati 188,"Wheat flour, sugar, jaggery, coconut",vegetarian,sweet,snack
+Chocolate Cake 189,"Paneer, onion, tomato, garam masala, cream",vegetarian,-1,main course
+Veg Fried Rice 190,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,sweet,starter
+Chicken Korma 191,"Rice flour, milk, sugar, saffron, nuts",vegetarian,-1,main course
+Hot and Sour Soup 192,"Wheat flour, sugar, jaggery, coconut",non vegetarian,sweet,starter
+Kadhi Pakora 193,"Rice, peas, beans, carrot, spices",non vegetarian,bitter,dessert
+Egg Roll 194,"Gram flour, rice flour, onion, spices",vegetarian,sweet,main course
+Bajra Roti 195,"Rice flour, milk, sugar, saffron, nuts",vegetarian,bitter,snack
+Veg Pakora 196,"Rice, peas, beans, carrot, spices",non vegetarian,spicy,main course
+Hot and Sour Soup 197,"Mutton, onion, ginger garlic paste, spices",vegetarian,spicy,dessert
+Gobi Manchurian 198,"Chicken, yogurt, cashew, onion, tomato",vegetarian,spicy,snack
+Seekh Kebab 199,"Potato, onion, chili, garam masala, oil",non vegetarian,bitter,snack
+Pesarattu 200,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,sweet,snack
+Egg Curry 201,"Rice, peas, beans, carrot, spices",non vegetarian,-1,snack
+Fish Tikka 202,"Paneer, onion, tomato, garam masala, cream",vegetarian,-1,dessert
+Onion Pakora 203,"Rice flour, milk, sugar, saffron, nuts",vegetarian,spicy,dessert
+Pesarattu 204,"Mutton, onion, ginger garlic paste, spices",non vegetarian,-1,dessert
+Black Forest Cake 205,"Wheat flour, sugar, jaggery, coconut",vegetarian,bitter,main course
+Mutton Kebab 206,"Potato, onion, chili, garam masala, oil",vegetarian,spicy,main course
+Veg Manchurian 207,"Chicken, yogurt, cashew, onion, tomato",vegetarian,bitter,starter
+Veg Frankie 208,"Paneer, onion, tomato, garam masala, cream",vegetarian,sweet,main course
+Chicken Biryani 209,"Potato, onion, chili, garam masala, oil",vegetarian,-1,starter
+Paneer Do Pyaza 210,"Wheat flour, sugar, jaggery, coconut",vegetarian,bitter,snack
+Mixed Veg Sabzi 211,"Rice, peas, beans, carrot, spices",non vegetarian,sweet,dessert
+Schezwan Noodles 212,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,sweet,starter
+Veg Biryani 213,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,spicy,main course
+Veg Spring Roll 214,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,bitter,starter
+Paneer Momos 215,"Potato, onion, chili, garam masala, oil",vegetarian,spicy,snack
+Dal Fry 216,"Wheat flour, sugar, jaggery, coconut",non vegetarian,-1,dessert
+Rava Ladoo 217,"Paneer, onion, tomato, garam masala, cream",non vegetarian,-1,main course
+Egg Biryani 218,"Paneer, onion, tomato, garam masala, cream",non vegetarian,-1,snack
+Mutton Curry 219,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,-1,main course
+Fish Tikka 220,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,sweet,main course
+Adai 221,"Egg, tomato, onion, garam masala, coriander",non vegetarian,bitter,main course
+Black Forest Cake 222,"Rice, peas, beans, carrot, spices",vegetarian,-1,starter
+Chicken Frankie 223,"Egg, tomato, onion, garam masala, coriander",non vegetarian,sweet,starter
+Veg Fried Rice 224,"Mutton, onion, ginger garlic paste, spices",non vegetarian,sweet,main course
+Paneer Burger 225,"Egg, tomato, onion, garam masala, coriander",vegetarian,-1,main course
+Gobi Manchurian 226,"Wheat flour, sugar, jaggery, coconut",non vegetarian,spicy,snack
+Vegetable Curry 227,"Potato, onion, chili, garam masala, oil",non vegetarian,-1,starter
+Paneer Pakora 228,"Fish, coconut milk, tamarind, curry leaves",vegetarian,sweet,starter
+Kadhi Chawal 229,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,sweet,snack
+Hot and Sour Soup 230,"Paneer, onion, tomato, garam masala, cream",non vegetarian,bitter,snack
+Chocolate Cake 231,"Wheat flour, sugar, jaggery, coconut",vegetarian,spicy,snack
+Tandoori Roti 232,"Potato, onion, chili, garam masala, oil",vegetarian,sweet,starter
+Onion Pakora 233,"Mutton, onion, ginger garlic paste, spices",vegetarian,-1,snack
+Chicken Spring Roll 234,"Paneer, onion, tomato, garam masala, cream",non vegetarian,spicy,snack
+Pineapple Pastry 235,"Paneer, onion, tomato, garam masala, cream",vegetarian,bitter,starter
+Paneer Burger 236,"Gram flour, rice flour, onion, spices",vegetarian,spicy,snack
+Adai 237,"Rice, peas, beans, carrot, spices",non vegetarian,-1,dessert
+Chicken Frankie 238,"Egg, tomato, onion, garam masala, coriander",vegetarian,spicy,dessert
+Coconut Burfi 239,"Paneer, onion, tomato, garam masala, cream",vegetarian,-1,snack
+Paneer Do Pyaza 240,"Fish, coconut milk, tamarind, curry leaves",vegetarian,sweet,starter
+Chicken Pizza 241,"Rice flour, milk, sugar, saffron, nuts",vegetarian,-1,dessert
+Club Sandwich 242,"Gram flour, rice flour, onion, spices",vegetarian,bitter,starter
+Butter Naan 243,"Gram flour, rice flour, onion, spices",non vegetarian,spicy,starter
+Paneer Momos 244,"Wheat flour, sugar, jaggery, coconut",vegetarian,sweet,snack
+Black Forest Cake 245,"Potato, onion, chili, garam masala, oil",non vegetarian,bitter,main course
+Egg Curry 246,"Gram flour, rice flour, onion, spices",non vegetarian,-1,starter
+Hot and Sour Soup 247,"Rice flour, milk, sugar, saffron, nuts",vegetarian,-1,snack
+Dal Fry 248,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,spicy,dessert
+Egg Hakka Noodles 249,"Fish, coconut milk, tamarind, curry leaves",vegetarian,-1,dessert
+Ice Cream 250,"Rice, peas, beans, carrot, spices",vegetarian,-1,main course
+Paneer Manchurian 251,"Wheat flour, sugar, jaggery, coconut",vegetarian,-1,dessert
+Veg Hakka Noodles 252,"Chicken, yogurt, cashew, onion, tomato",vegetarian,spicy,starter
+Veg Biryani 253,"Egg, tomato, onion, garam masala, coriander",vegetarian,spicy,starter
+Veg Hakka Noodles 254,"Chicken, yogurt, cashew, onion, tomato",vegetarian,spicy,main course
+Mutton Biryani 255,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,bitter,starter
+Chicken 65 256,"Rice, peas, beans, carrot, spices",vegetarian,spicy,main course
+Butter Naan 257,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,sweet,dessert
+Paneer Momos 258,"Egg, tomato, onion, garam masala, coriander",non vegetarian,spicy,main course
+Paneer Burger 259,"Gram flour, rice flour, onion, spices",non vegetarian,spicy,dessert
+Veg Momos 260,"Wheat flour, sugar, jaggery, coconut",non vegetarian,spicy,snack
+Mixed Veg Sabzi 261,"Fish, coconut milk, tamarind, curry leaves",vegetarian,bitter,dessert
+Veg Pakora 262,"Rice, peas, beans, carrot, spices",vegetarian,bitter,starter
+Mutton Biryani 263,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,bitter,starter
+Brownie 264,"Chicken, yogurt, cashew, onion, tomato",vegetarian,-1,starter
+Butter Naan 265,"Potato, onion, chili, garam masala, oil",non vegetarian,bitter,snack
+Chicken Hakka Noodles 266,"Gram flour, rice flour, onion, spices",vegetarian,-1,main course
+Dal Fry 267,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,sweet,main course
+Garlic Naan 268,"Wheat flour, sugar, jaggery, coconut",non vegetarian,-1,snack
+Veg Pizza 269,"Rice, peas, beans, carrot, spices",vegetarian,-1,main course
+Chapati 270,"Gram flour, rice flour, onion, spices",non vegetarian,bitter,main course
+Veg Manchurian 271,"Rice flour, milk, sugar, saffron, nuts",vegetarian,bitter,snack
+Pineapple Pastry 272,"Paneer, onion, tomato, garam masala, cream",vegetarian,sweet,snack
+Brownie 273,"Gram flour, rice flour, onion, spices",non vegetarian,sweet,snack
+Butter Naan 274,"Fish, coconut milk, tamarind, curry leaves",vegetarian,-1,main course
+Moong Dal Halwa 275,"Mutton, onion, ginger garlic paste, spices",non vegetarian,sweet,starter
+Veg Fried Rice 276,"Chicken, yogurt, cashew, onion, tomato",vegetarian,spicy,starter
+Fish Curry 277,"Wheat flour, sugar, jaggery, coconut",vegetarian,-1,starter
+Paneer Tikka 278,"Egg, tomato, onion, garam masala, coriander",non vegetarian,bitter,main course
+Mutton Biryani 279,"Wheat flour, sugar, jaggery, coconut",vegetarian,bitter,starter
+Shami Kebab 280,"Chicken, yogurt, cashew, onion, tomato",vegetarian,bitter,dessert
+Egg Hakka Noodles 281,"Rice flour, milk, sugar, saffron, nuts",vegetarian,-1,starter
+Vegetable Soup 282,"Mutton, onion, ginger garlic paste, spices",vegetarian,sweet,snack
+Onion Pakora 283,"Gram flour, rice flour, onion, spices",vegetarian,spicy,main course
+Ice Cream 284,"Rice, peas, beans, carrot, spices",non vegetarian,bitter,dessert
+Paneer Bhurji 285,"Chicken, yogurt, cashew, onion, tomato",vegetarian,spicy,main course
+Paneer Tikka 286,"Fish, coconut milk, tamarind, curry leaves",vegetarian,-1,snack
+Chapati 287,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,sweet,main course
+Chicken Momos 288,"Mutton, onion, ginger garlic paste, spices",non vegetarian,-1,starter
+Paneer Manchurian 289,"Chicken, yogurt, cashew, onion, tomato",vegetarian,sweet,dessert
+Sweet Corn Soup 290,"Egg, tomato, onion, garam masala, coriander",non vegetarian,bitter,snack
+Egg Curry 291,"Fish, coconut milk, tamarind, curry leaves",vegetarian,spicy,snack
+Kulfi 292,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,spicy,main course
+Sweet Corn Soup 293,"Egg, tomato, onion, garam masala, coriander",non vegetarian,sweet,dessert
+Schezwan Noodles 294,"Potato, onion, chili, garam masala, oil",non vegetarian,spicy,starter
+Dal Fry 295,"Gram flour, rice flour, onion, spices",non vegetarian,-1,starter
+Kadhi Chawal 296,"Paneer, onion, tomato, garam masala, cream",non vegetarian,-1,starter
+Butter Naan 297,"Fish, coconut milk, tamarind, curry leaves",vegetarian,sweet,dessert
+Jowar Roti 298,"Rice, peas, beans, carrot, spices",non vegetarian,-1,dessert
+Keema Curry 299,"Potato, onion, chili, garam masala, oil",vegetarian,-1,main course
+Mutton Kebab 300,"Gram flour, rice flour, onion, spices",non vegetarian,-1,starter
+Vegetable Curry 301,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,-1,dessert
+Chocolate Cake 302,"Mutton, onion, ginger garlic paste, spices",vegetarian,sweet,dessert
+Veg Cutlet 303,"Mutton, onion, ginger garlic paste, spices",vegetarian,-1,main course
+Veg Pakora 304,"Rice, peas, beans, carrot, spices",non vegetarian,sweet,starter
+Veg Manchurian 305,"Mutton, onion, ginger garlic paste, spices",vegetarian,spicy,dessert
+Dal Fry 306,"Chicken, yogurt, cashew, onion, tomato",vegetarian,bitter,snack
+Onion Pakora 307,"Rice flour, milk, sugar, saffron, nuts",vegetarian,bitter,snack
+Dal Fry 308,"Egg, tomato, onion, garam masala, coriander",non vegetarian,sweet,main course
+Gobi Manchurian 309,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,sweet,dessert
+Paneer Burger 310,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,bitter,starter
+Sweet Corn Soup 311,"Chicken, yogurt, cashew, onion, tomato",vegetarian,spicy,snack
+Coconut Burfi 312,"Egg, tomato, onion, garam masala, coriander",vegetarian,-1,dessert
+Tandoori Roti 313,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,spicy,dessert
+Chapati 314,"Rice flour, milk, sugar, saffron, nuts",vegetarian,-1,dessert
+Egg Biryani 315,"Gram flour, rice flour, onion, spices",vegetarian,-1,snack
+Paneer Bhurji 316,"Wheat flour, sugar, jaggery, coconut",vegetarian,bitter,snack
+Mutton Biryani 317,"Mutton, onion, ginger garlic paste, spices",vegetarian,sweet,starter
+Chapati 318,"Egg, tomato, onion, garam masala, coriander",vegetarian,sweet,snack
+Egg Biryani 319,"Potato, onion, chili, garam masala, oil",vegetarian,spicy,main course
+Vegetable Soup 320,"Wheat flour, sugar, jaggery, coconut",non vegetarian,sweet,snack
+Ice Cream 321,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,-1,starter
+Vegetable Soup 322,"Egg, tomato, onion, garam masala, coriander",non vegetarian,bitter,snack
+Veg Cutlet 323,"Fish, coconut milk, tamarind, curry leaves",vegetarian,bitter,dessert
+Veg Sandwich 324,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,-1,main course
+Chapati 325,"Paneer, onion, tomato, garam masala, cream",non vegetarian,bitter,snack
+Falooda 326,"Rice flour, milk, sugar, saffron, nuts",vegetarian,bitter,starter
+Kadhi Pakora 327,"Wheat flour, sugar, jaggery, coconut",vegetarian,sweet,dessert
+Schezwan Noodles 328,"Wheat flour, sugar, jaggery, coconut",vegetarian,spicy,dessert
+Chapati 329,"Egg, tomato, onion, garam masala, coriander",non vegetarian,bitter,snack
+Chicken 65 330,"Rice, peas, beans, carrot, spices",vegetarian,-1,starter
+Hot and Sour Soup 331,"Egg, tomato, onion, garam masala, coriander",non vegetarian,sweet,snack
+Vegetable Pulao 332,"Egg, tomato, onion, garam masala, coriander",vegetarian,-1,dessert
+Veg Fried Rice 333,"Potato, onion, chili, garam masala, oil",non vegetarian,spicy,main course
+Veg Hakka Noodles 334,"Fish, coconut milk, tamarind, curry leaves",vegetarian,-1,main course
+Ragi Mudde 335,"Paneer, onion, tomato, garam masala, cream",vegetarian,spicy,main course
+Gobi Manchurian 336,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,spicy,main course
+Fish Curry 337,"Wheat flour, sugar, jaggery, coconut",non vegetarian,-1,dessert
+Egg Curry 338,"Rice flour, milk, sugar, saffron, nuts",vegetarian,-1,snack
+Chapati 339,"Gram flour, rice flour, onion, spices",vegetarian,bitter,dessert
+Paneer Tikka 340,"Gram flour, rice flour, onion, spices",vegetarian,-1,starter
+Chicken Pizza 341,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,spicy,main course
+Paneer Burger 342,"Wheat flour, sugar, jaggery, coconut",non vegetarian,bitter,snack
+Veg Fried Rice 343,"Wheat flour, sugar, jaggery, coconut",non vegetarian,-1,main course
+Sweet Corn Soup 344,"Mutton, onion, ginger garlic paste, spices",non vegetarian,sweet,main course
+Adai 345,"Potato, onion, chili, garam masala, oil",non vegetarian,sweet,starter
+Keema Curry 346,"Egg, tomato, onion, garam masala, coriander",non vegetarian,bitter,starter
+Chicken Fried Rice 347,"Mutton, onion, ginger garlic paste, spices",non vegetarian,sweet,snack
+Chicken Pizza 348,"Gram flour, rice flour, onion, spices",vegetarian,sweet,dessert
+Paneer Do Pyaza 349,"Paneer, onion, tomato, garam masala, cream",vegetarian,bitter,main course
+Prawns Tikka 350,"Egg, tomato, onion, garam masala, coriander",non vegetarian,bitter,dessert
+Paneer Roll 351,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,bitter,dessert
+Club Sandwich 352,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,spicy,main course
+Egg Fried Rice 353,"Rice, peas, beans, carrot, spices",non vegetarian,-1,starter
+Veg Biryani 354,"Potato, onion, chili, garam masala, oil",vegetarian,bitter,main course
+Paneer Pizza 355,"Potato, onion, chili, garam masala, oil",vegetarian,spicy,starter
+Veg Hakka Noodles 356,"Gram flour, rice flour, onion, spices",vegetarian,bitter,main course
+Egg Curry 357,"Rice, peas, beans, carrot, spices",non vegetarian,sweet,starter
+Ragi Mudde 358,"Egg, tomato, onion, garam masala, coriander",non vegetarian,-1,snack
+Fish Tikka 359,"Mutton, onion, ginger garlic paste, spices",vegetarian,sweet,starter
+Vegetable Curry 360,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,sweet,starter
+Veg Spring Roll 361,"Gram flour, rice flour, onion, spices",vegetarian,sweet,main course
+Jowar Roti 362,"Gram flour, rice flour, onion, spices",vegetarian,-1,snack
+Chicken Korma 363,"Rice, peas, beans, carrot, spices",vegetarian,bitter,snack
+Coconut Burfi 364,"Wheat flour, sugar, jaggery, coconut",vegetarian,spicy,main course
+Paneer Manchurian 365,"Paneer, onion, tomato, garam masala, cream",vegetarian,-1,starter
+Chicken Sandwich 366,"Gram flour, rice flour, onion, spices",non vegetarian,sweet,main course
+Sweet Corn Soup 367,"Mutton, onion, ginger garlic paste, spices",vegetarian,sweet,snack
+Chicken Hakka Noodles 368,"Egg, tomato, onion, garam masala, coriander",non vegetarian,bitter,snack
+Egg Roll 369,"Fish, coconut milk, tamarind, curry leaves",vegetarian,-1,main course
+Hara Bhara Kebab 370,"Gram flour, rice flour, onion, spices",vegetarian,sweet,starter
+Ice Cream 371,"Potato, onion, chili, garam masala, oil",non vegetarian,-1,starter
+Kadhi Pakora 372,"Paneer, onion, tomato, garam masala, cream",non vegetarian,spicy,dessert
+Kadhi Chawal 373,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,bitter,main course
+Poori 374,"Gram flour, rice flour, onion, spices",non vegetarian,spicy,snack
+Rasgulla Cake 375,"Potato, onion, chili, garam masala, oil",vegetarian,-1,main course
+Tandoori Roti 376,"Wheat flour, sugar, jaggery, coconut",vegetarian,sweet,dessert
+Hara Bhara Kebab 377,"Wheat flour, sugar, jaggery, coconut",vegetarian,-1,starter
+Bajra Roti 378,"Potato, onion, chili, garam masala, oil",non vegetarian,sweet,dessert
+Egg Biryani 379,"Chicken, yogurt, cashew, onion, tomato",vegetarian,sweet,snack
+Jowar Roti 380,"Paneer, onion, tomato, garam masala, cream",non vegetarian,sweet,main course
+Veg Pakora 381,"Mutton, onion, ginger garlic paste, spices",vegetarian,sweet,dessert
+Rasgulla Cake 382,"Potato, onion, chili, garam masala, oil",vegetarian,bitter,main course
+Veg Momos 383,"Potato, onion, chili, garam masala, oil",non vegetarian,spicy,starter
+Chapati 384,"Potato, onion, chili, garam masala, oil",vegetarian,spicy,starter
+Mutton Biryani 385,"Fish, coconut milk, tamarind, curry leaves",vegetarian,sweet,snack
+Egg Curry 386,"Egg, tomato, onion, garam masala, coriander",non vegetarian,spicy,snack
+Kulfi 387,"Wheat flour, sugar, jaggery, coconut",vegetarian,bitter,snack
+Kadhi Pakora 388,"Potato, onion, chili, garam masala, oil",vegetarian,sweet,main course
+Paneer Bhurji 389,"Potato, onion, chili, garam masala, oil",vegetarian,-1,dessert
+Egg Curry 390,"Mutton, onion, ginger garlic paste, spices",non vegetarian,bitter,dessert
+Veg Momos 391,"Mutton, onion, ginger garlic paste, spices",non vegetarian,spicy,dessert
+Prawns Tikka 392,"Rice flour, milk, sugar, saffron, nuts",vegetarian,-1,snack
+Paneer Momos 393,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,spicy,snack
+Ragi Mudde 394,"Wheat flour, sugar, jaggery, coconut",non vegetarian,spicy,main course
+Keema Curry 395,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,bitter,starter
+Gobi Manchurian 396,"Rice, peas, beans, carrot, spices",vegetarian,-1,dessert
+Pesarattu 397,"Rice flour, milk, sugar, saffron, nuts",vegetarian,bitter,starter
+Jowar Roti 398,"Rice, peas, beans, carrot, spices",non vegetarian,-1,starter
+Mutton Curry 399,"Rice flour, milk, sugar, saffron, nuts",non vegetarian,bitter,starter
+Paneer Pizza 400,"Fish, coconut milk, tamarind, curry leaves",vegetarian,-1,main course
+Chicken Burger 401,"Gram flour, rice flour, onion, spices",non vegetarian,bitter,starter
+Chapati 402,"Paneer, onion, tomato, garam masala, cream",non vegetarian,sweet,dessert
+Mixed Veg Sabzi 403,"Egg, tomato, onion, garam masala, coriander",non vegetarian,bitter,starter
+Chicken Biryani 404,"Chicken, yogurt, cashew, onion, tomato",vegetarian,spicy,main course
+Mixed Veg Sabzi 405,"Rice, peas, beans, carrot, spices",vegetarian,spicy,main course
+Paneer Pizza 406,"Potato, onion, chili, garam masala, oil",non vegetarian,bitter,dessert
+Paneer Pizza 407,"Chicken, yogurt, cashew, onion, tomato",vegetarian,spicy,starter
+Egg Biryani 408,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,-1,snack
+Veg Sandwich 409,"Potato, onion, chili, garam masala, oil",non vegetarian,sweet,main course
+Veg Burger 410,"Egg, tomato, onion, garam masala, coriander",non vegetarian,sweet,starter
+Ragi Mudde 411,"Egg, tomato, onion, garam masala, coriander",vegetarian,sweet,dessert
+Mutton Tikka 412,"Chicken, yogurt, cashew, onion, tomato",non vegetarian,-1,snack
+Tomato Soup 413,"Paneer, onion, tomato, garam masala, cream",vegetarian,-1,snack
+Chicken Tikka 414,"Gram flour, rice flour, onion, spices",non vegetarian,sweet,snack
+Pineapple Pastry 415,"Chicken, yogurt, cashew, onion, tomato",vegetarian,spicy,starter
+Paneer Momos 416,"Gram flour, rice flour, onion, spices",vegetarian,bitter,starter
+Vegetable Soup 417,"Fish, coconut milk, tamarind, curry leaves",vegetarian,-1,starter
+Coconut Burfi 418,"Rice flour, milk, sugar, saffron, nuts",vegetarian,bitter,dessert
+Veg Fried Rice 419,"Fish, coconut milk, tamarind, curry leaves",non vegetarian,bitter,dessert
